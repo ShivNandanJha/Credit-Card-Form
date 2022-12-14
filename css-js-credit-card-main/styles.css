@@ -1,3 +1,10 @@
+body{
+  box-sizing: border-box;
+  align-items: center;
+  margin-top: 20%;
+  margin-left: 40%;
+  background-color: gray;
+}
 .credit-card {
   color: white;
   font-family: Arial;
